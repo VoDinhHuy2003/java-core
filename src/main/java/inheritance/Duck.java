@@ -1,0 +1,13 @@
+package inheritance;
+
+public class Duck extends Animal{
+
+    public Duck(String name, int age) {
+        super(name, age);
+    }
+
+    @Override
+    public void eat() {
+        System.out.println("Duck is eating");
+    }
+}
