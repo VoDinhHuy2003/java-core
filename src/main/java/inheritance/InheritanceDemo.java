@@ -5,7 +5,7 @@ public class InheritanceDemo {
         // Tinh ke thua
         // Muc dich: tai su dung code
         // Tu khoa: Extends
-        Duck duck = new Duck();
+        Duck duck = new Duck("Duck", 12);
         duck.eat();
 
         // Tu khoa: super
