@@ -1,9 +1,0 @@
-git init
-git status
-git add .
-git commit -m "message"
-git remote add origin [url]
-git branch
-git checkout -b [branch name]
-git push -u origin [branch name]
-git pull -u origin [branch name]
